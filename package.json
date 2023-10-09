@@ -1,0 +1,22 @@
+{
+  "name": "alibackend",
+  "version": "1.0.0",
+  "description": "i am learning backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alii-Hassnain/BackEnd.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Ali Hassnain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alii-Hassnain/BackEnd/issues"
+  },
+  "homepage": "https://github.com/Alii-Hassnain/BackEnd#readme"
+}
